@@ -1,12 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="TypeScript" />
       <blacklist language="Java">
-        <added pattern="*.Reporter.log(*)" />
+        <added pattern="org.testng.Reporter.log(s,logToStandardOut)" />
       </blacklist>
-      <blacklist language="Groovy" />
-      <blacklist language="Kotlin" />
     </blacklists>
   </component>
 </application>

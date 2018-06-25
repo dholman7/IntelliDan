@@ -1,8 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="tmpmap" type="PLAIN_TEXT" />
+      <mapping pattern="EndpointMessages" type="XML" />
     </extensionMap>
   </component>
 </application>

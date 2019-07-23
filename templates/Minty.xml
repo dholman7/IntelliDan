@@ -28,7 +28,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="asdx" value="private By fXpath = By.xpath(&quot;//input[value=&quot;Feeling Lucky&quot;]&quot;);&#10;" description="Creates an xpath Constructor" toReformat="true" toShortenFQNames="true">
+  <template name="asdx" value="private By fXpath = By.xpath(&quot;//input[@value=\&quot;Feeling Lucky\&quot;]&quot;);" description="Creates an xpath Constructor" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

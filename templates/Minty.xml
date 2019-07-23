@@ -11,7 +11,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="asdasd" value="private By bTemp = By.cssSelector(&quot;.selector&quot;);" description="Creates a By Constructor" toReformat="true" toShortenFQNames="true">
+  <template name="asdasd" value="private By fBy = By.cssSelector(&quot;.selector&quot;);" description="Creates a By Constructor" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -21,6 +21,26 @@
     <variable name="fixme" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="asdtest" value="    @Test(priority = 1)&#10;    @CaseID(&quot;123&quot;)&#10;    @Parameters({&quot;config&quot;})&#10;    public void newTest() throws Exception {&#10;        Reporter.log(&quot;&quot;);&#10;    }" description="Creates a new Test" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="asdx" value="private By fXpath = By.xpath(&quot;//input[value=&quot;Feeling Lucky&quot;]&quot;);&#10;" description="Creates an xpath Constructor" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="asdc" value="private By fCss = By.cssSelector(&quot;.gbqfbb&quot;);&#10;" description="Creates an CSS Constructor" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="asdi" value="private By fId = By.id(&quot;myid&quot;);&#10;" description="Creates an ID Constructor" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
 </templateSet>

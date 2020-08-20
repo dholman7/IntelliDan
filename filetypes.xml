@@ -12,6 +12,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="postman" type="Python" />
       <mapping pattern="test_eds" type="Python" />
+      <mapping pattern="tmp" type="XML" />
       <mapping pattern="EndpointMessages" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />

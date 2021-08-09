@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="AngelExample.py" type="AUTO_DETECTED" />
+      <mapping pattern="d_login_page" type="AUTO_DETECTED" />
       <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV/TSV" />
       <mapping ext="tsv" type="CSV/TSV" />

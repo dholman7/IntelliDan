@@ -9,6 +9,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="hackkerrank1" type="Python" />
       <mapping pattern="connector" type="Python" />
       <removed_mapping ext="tsv" type="TSV" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
